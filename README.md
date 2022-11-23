@@ -34,4 +34,10 @@ The best result was achieved using XGBoost.
 ## Conclusion:<br>
 Time series data is complex and if needed to be used for prediction one should make sure that sufficient data is present. The horizon for which the prediction is needed to be done must be based on the data available. Time series data is not easy to work with but at the same time it also give too much insight about the trend and pattern based on real world. For time series prediction XGBoost is one of the best algorithm to work with and gives most accurate predictions.
 
+# Rank Secured
+
+Secured 18th rank on the leaderboard.
+
+<img src="https://github.com/zmwaris1/Analytics_Vidhya_Job_A_Thon/blob/main/Job%20A%20Thon.png" alt="18th rank" height="500" style="vertical-align:top; margin:4px">
+
 # Thank you for visiting.
